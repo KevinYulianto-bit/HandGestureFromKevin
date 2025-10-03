@@ -6,4 +6,22 @@ kedua, wajib punya vscode
 -jika belum ada bikin file nya sendiri ( jangan lupa belakangnya kasih .py karena ini python )
 -jika sudah, pergi ke github yg kukirim link nya, masuk ke file "handGestureRecognitionmp.py" 
 -lalu copas/copy code nya, pastekan di file "handGestureRecognitionmp.py" yang sudah kita buat di vscode
- 
+
+cara atas terlalu lama
+berikut cara cepat 
+import github, caranya
+
+buka terminal vs code, kemudia masukan ini :
+git clone https://github.com/KevinYulianto-bit/HandGestureFromKevin.git
+
+tunggu sampai selesai proses menyalin file dr github ke vs code
+jika sudah selesai ketikkan clear ( maka otomatis terminal bersih)
+kemudian, ketikkan
+pastikan python versi 1.10.0 kebawah
+
+pip install opencv-python ( tunggu sampai selesai)
+pip install mediapipe ( tungu sampai selesai)
+lanjut
+pip install gGTTS
+pip install playsound==1.2.2
+pip install googletrans==4.0.0-rc1
