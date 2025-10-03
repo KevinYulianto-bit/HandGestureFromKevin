@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+
+Thumbs.db
+
+*log
+temp/

@@ -1,0 +1,9 @@
+pertama install dulu python versi ( 1.10.0)#Cari di google versi ini, versi di atasnya tidak support
+(fullnya cek yt : cara install python )
+
+kedua, wajib punya vscode
+-bikin folder baru nama folder (bebas) asalkan didalem folder nya ada "handGestureRecognitionmp.py"
+-jika belum ada bikin file nya sendiri ( jangan lupa belakangnya kasih .py karena ini python )
+-jika sudah, pergi ke github yg kukirim link nya, masuk ke file "handGestureRecognitionmp.py" 
+-lalu copas/copy code nya, pastekan di file "handGestureRecognitionmp.py" yang sudah kita buat di vscode
+ 
