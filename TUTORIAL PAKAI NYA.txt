@@ -7,6 +7,7 @@ lanjut
 pip install gGTTS
 pip install playsound==1.2.2
 pip install googletrans==4.0.0-rc1
+pip install pygame
 
 Ketiga, import github, caranya
 buka terminal vs code, kemudia masukan ini :
